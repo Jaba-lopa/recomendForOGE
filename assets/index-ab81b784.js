@@ -7,7 +7,7 @@
         </div>
             
         <div class="title__img">
-            <img src="/page-1-02.jpg">
+            <img src="../page-1-02.jpg">
         </div>
       </div>
 
